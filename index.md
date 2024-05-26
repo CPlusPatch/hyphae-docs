@@ -1,3 +1,8 @@
+> [!WARNING]
+> **UNFINISHED DOCUMENT**
+> 
+> **DO NOT USE THIS DOCUMENT FOR ANY SERIOUS PURPOSE**
+
 # Introduction
 
 Greetings! My name is Jesse, and I'm here to help you understand the world and yourself a little bit better.
