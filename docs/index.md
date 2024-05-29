@@ -29,9 +29,9 @@
 
 Greetings! My name is Jesse, and I'm here to help you understand the world and yourself a little bit better.
 
-Some of the things in this video may not apply to you, or you may already understand them. If this is the case, then congrats! You may find some other parts useful though.
+Some of the things in this document may not apply to you, or you may already understand them. If this is the case, then congrats! You may find some other parts useful though.
 
-If you have any questions, contact the individual who shared this video with you. They should be able to help you out.
+If you have any questions, contact the individual who shared this document with you. They should be able to help you out.
 
 # Yourself and the World
 
